@@ -1,2 +1,2 @@
 # PerformanceMonitor
-Arduinp pc performance monitor application
+Arduino pc performance monitor application
